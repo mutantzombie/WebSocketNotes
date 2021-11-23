@@ -2,9 +2,7 @@ WebSockets
 ==
 Supporting material for WebSockets security presentations.
 
-Send questions and suggestions to:
- mike(at)deadliestwebattacks.com
- [@CodexWebSecurum](https://twitter.com/CodexWebSecurum)
+Send questions and suggestions to [@Codexatron](https://twitter.com/Codexatron)
 
 Follow the [blog](http://deadliestwebattacks.com).
 
