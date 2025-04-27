@@ -2,9 +2,9 @@ WebSockets
 ==
 Supporting material for WebSockets security presentations.
 
-Send questions and suggestions to [@Codexatron](https://twitter.com/Codexatron)
+Send questions and suggestions to [@mutantzombie.bsky.social](https://bsky.app/profile/mutantzombie.bsky.social)
 
-Follow the [blog](http://deadliestwebattacks.com).
+Follow the [blog](http://dangerouserrors.com).
 
 Code Samples
 --
@@ -30,6 +30,6 @@ Presentations
 [BayThreat 2012][bt2012]
 
 
-[ASEC-F41]: http://deadliestwebattacks.com/2013/03/08/rsa-us-2013-asec-f41-slides/ "Using HTML5 WebSockets Securely"
-[bt2012]: http://deadliestwebattacks.com/2012/12/07/baythreat-2012-websocket-presentation/ "Hacking with WebSockets"
+[ASEC-F41]: https://dangerouserrors.com/presentation-notes/2013-03-08-rsa-asec-f41-slides "Using HTML5 WebSockets Securely"
+[bt2012]: https://dangerouserrors.com/presentation-notes/2012-12-08-baythreat-2012-websocket-presentation "Hacking with WebSockets"
 [scapy-project]: http://www.secdev.org/projects/scapy/ "Scapy Project Home"
